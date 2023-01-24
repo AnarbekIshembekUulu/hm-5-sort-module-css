@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hm-5-sort-module-css/static/css/main.af82ab16.css",
+    "main.js": "/hm-5-sort-module-css/static/js/main.a54cb3ff.js",
+    "index.html": "/hm-5-sort-module-css/index.html",
+    "main.af82ab16.css.map": "/hm-5-sort-module-css/static/css/main.af82ab16.css.map",
+    "main.a54cb3ff.js.map": "/hm-5-sort-module-css/static/js/main.a54cb3ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af82ab16.css",
+    "static/js/main.a54cb3ff.js"
+  ]
+}
