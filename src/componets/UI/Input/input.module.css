@@ -1,0 +1,13 @@
+.inputStyle {
+  width: 500px;
+  height: 30px;
+  border-radius: 10px;
+  border-style: none;
+  box-shadow: rgb(9, 10, 10) 0px 10px 20px -10px;
+}
+
+.labelStyle {
+  margin-left: -430px;
+  color: rgba(7, 15, 86, 0.705);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
